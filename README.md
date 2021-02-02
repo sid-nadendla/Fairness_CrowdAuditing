@@ -1,1 +1,1 @@
-# Fairness_CrowdAuditing
+# Fairness and CrowdAuditing
