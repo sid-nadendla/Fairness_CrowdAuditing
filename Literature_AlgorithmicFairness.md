@@ -2,17 +2,17 @@
 
 
 1. Fairness Notions
-		- [Fairness through Awareness](https://arxiv.org/pdf/1104.3913.pdf)
-		- [On conditional parity as a notion of non-discrimination in machine learning](https://arxiv.org/pdf/1706.08519.pdf)
-		- [Group Fairness Under Composition](https://www.fatml.org/media/documents/group_fairness_under_composition.pdf)
-		- [Individual Fairness Under Composition](https://www.fatml.org/media/documents/individual_fairness_under_composition.pdf)
-		- [Fairness Under Unawareness: Assessing Disparity When Protected Class Is Unobserved](https://arxiv.org/pdf/1811.11154.pdf)
-		- [Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)
-		- [Achieving Fairness through Adversarial Learning: an Application to Recidivism Prediction](https://arxiv.org/pdf/1807.00199.pdf)
-		- [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://arxiv.org/pdf/1610.08452.pdf)
-		- [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
-		- [Fairness through Causal Awareness: Learning Causal Latent-Variable Models for Biased Data](https://arxiv.org/pdf/1809.02519.pdf)
-		- [From Parity to Preference-based Notions of Fairness in Classification](https://arxiv.org/pdf/1707.00010.pdf)
+	- [Fairness through Awareness](https://arxiv.org/pdf/1104.3913.pdf)
+	- [On conditional parity as a notion of non-discrimination in machine learning](https://arxiv.org/pdf/1706.08519.pdf)
+	- [Group Fairness Under Composition](https://www.fatml.org/media/documents/group_fairness_under_composition.pdf)
+	- [Individual Fairness Under Composition](https://www.fatml.org/media/documents/individual_fairness_under_composition.pdf)
+	- [Fairness Under Unawareness: Assessing Disparity When Protected Class Is Unobserved](https://arxiv.org/pdf/1811.11154.pdf)
+	- [Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)
+	- [Achieving Fairness through Adversarial Learning: an Application to Recidivism Prediction](https://arxiv.org/pdf/1807.00199.pdf)
+	- [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://arxiv.org/pdf/1610.08452.pdf)
+	- [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
+	- [Fairness through Causal Awareness: Learning Causal Latent-Variable Models for Biased Data](https://arxiv.org/pdf/1809.02519.pdf)
+	- [From Parity to Preference-based Notions of Fairness in Classification](https://arxiv.org/pdf/1707.00010.pdf)
 	
 	
 2. Calibration
